@@ -1,0 +1,16 @@
+# Fdb version 4
+["pdflatex"] 1748796937.62099 "c:/Users/Samuel/Documents/Proyectos latex/Tarea-1/main.tex" "build/main.pdf" "main" 1748796938.01795 0
+  "C:/Users/Samuel/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1748792441 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
+  "C:/Users/Samuel/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1748792451 13159808 14a5a00e37735cd958942f8cae55568d ""
+  "C:/Users/Samuel/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1247596667 35752 024fb6c41858982481f6968b5fc26508 ""
+  "C:/Users/Samuel/AppData/Local/Programs/MiKTeX/tex/latex/base/article.cls" 1738160243 20144 63d8bacaf52e5abf4db3bc322373e1d4 ""
+  "C:/Users/Samuel/AppData/Local/Programs/MiKTeX/tex/latex/base/size10.clo" 1738160243 8448 5cf247d4bd0c7d5d711bbbdf111fae2e ""
+  "C:/Users/Samuel/AppData/Local/Programs/MiKTeX/tex/latex/l3backend/l3backend-pdftex.def" 1745818159 30366 13daaaa774357bc2a262523ba6a04bac ""
+  "build/main.aux" 1748796937 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "c:/Users/Samuel/Documents/Proyectos latex/Tarea-1/main.tex" 1748792481 76 905504bd5b5ca67429f22b3ce74a1d0a ""
+  "main.tex" 1748792481 76 905504bd5b5ca67429f22b3ce74a1d0a ""
+  (generated)
+  "build/main.aux"
+  "build/main.log"
+  "build/main.pdf"
+  (rewritten before read)
